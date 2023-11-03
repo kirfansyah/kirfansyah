@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiki Irfansyah</h1>
-<img align="center" alt="web-developer" width="100%" src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif">
+<img align="center" alt="web-developer" width="100%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 <h3 align="justify">I am an experienced fullstack developer with over 4 years of experience, proficient in PHP, JavaScript, and various frameworks such as Codeigniter, Laravel, Node JS, Express Js, NestJs, and Next JS. I also have the ability to manage databases using MySQL, PostgreSQL, and SQL Server. With extensive experience, I am capable of developing web systems and applications as well as designing responsive user interfaces using React JS, demonstrating strong analytical and problem-solving skills in development projects. I am eager to continue deepening my knowledge and implementing the latest technologies in future projects.</h3>
 
 <h3 align="left">Connect with me:</h3>
